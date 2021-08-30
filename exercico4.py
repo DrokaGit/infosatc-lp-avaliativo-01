@@ -1,0 +1,6 @@
+n1 = float(input("digite o valor do premio: "))
+imposto = (n1 * 0.07)
+prim = (imposto * 0.47)
+segu = (prim * 0.32) 
+terc = (segu * 0.21)
+print(imposto,prim,segu,terc)

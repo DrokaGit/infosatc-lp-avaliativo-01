@@ -1,0 +1,5 @@
+n1 = float(input("digite um valor : "))
+n2 = float(input("digite um valor : "))
+n3 = float(input("digite um valor : "))
+s = pow(n1,2) + pow(n2,2) + pow(n3,2)
+print(s)
